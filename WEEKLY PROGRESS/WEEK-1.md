@@ -1,38 +1,38 @@
-# Week 01
+# Minggu 01
 
-## Main Goal
+## Tujuan Utama
 
-Build the foundation for Semester 3.
+Membangun fondasi untuk Semester 3.
 
-## Academic Focus
+## Fokus Akademik
 
-- Understand current course materials
-- Review difficult concepts after lectures
+- Memahami materi mata kuliah saat ini
+- Meninjau kembali konsep yang sulit setelah perkuliahan
 
-## Technical Focus
+## Fokus Teknis
 
-- Git/GitHub workflow
-- C++ fundamentals
-- HTML fundamentals
-- SQL/database fundamentals
+- Alur kerja Git/GitHub
+- Dasar-dasar C++
+- Dasar-dasar HTML
+- Dasar-dasar SQL/database
 
-## Portfolio Focus
+## Fokus Portofolio
 
-- Define the direction of 3 portfolio projects
+- Menentukan arah untuk 3 proyek portofolio
 
-## Deliverables
+## Target Hasil
 
-- [ ] GitHub learning log initialized
-- [ ] README completed
-- [ ] First technical practice completed
-- [ ] Portfolio project ideas defined
+- [ ] Log pembelajaran GitHub telah diinisialisasi
+- [ ] README telah selesai
+- [ ] Latihan teknis pertama telah selesai
+- [ ] Ide proyek portofolio telah ditentukan
 
-## Reflection
+## Refleksi
 
-### What I learned
+### Hal yang saya pelajari
 
-### What I struggled with
+### Hal yang masih saya kesulitan
 
-### What I can do now
+### Hal yang dapat saya lakukan sekarang
 
-### What I need to learn next
+### Hal yang perlu saya pelajari selanjutnya

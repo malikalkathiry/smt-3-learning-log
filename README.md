@@ -47,3 +47,6 @@ Status: Direncanakan
 ## Progres Semester
 
 - Minggu 1: Sedang berlangsung
+
+# smt-3-learning-log
+tools semester 3 untuk improve

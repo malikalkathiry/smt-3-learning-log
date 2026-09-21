@@ -1,37 +1,37 @@
-# Semester 3 Learning Log
+# Log Pembelajaran Semester 3
 
-Personal learning log for Semester 3 of Information Systems.
+Log pembelajaran pribadi untuk Semester 3 Sistem Informasi.
 
-## Main Goals
+## Tujuan Utama
 
-- Build a strong technical foundation
-- Create 3 portfolio projects
-- Improve academic performance
-- Improve GitHub and development workflow
-- Build skills in Web Development, OOP, SQL, and Business Intelligence
+- Membangun fondasi teknis yang kuat
+- Membuat 3 proyek portofolio
+- Meningkatkan performa akademik
+- Meningkatkan alur kerja GitHub dan pengembangan
+- Membangun keterampilan dalam Pengembangan Web, OOP, SQL, dan Business Intelligence
 
-## Courses
+## Mata Kuliah
 
-1. Linear Algebra
-2. Human Computer Interaction
-3. Web Programming I
-4. Object Oriented Programming
-5. Accounting Information Systems
+1. Aljabar Linear
+2. Interaksi Manusia dan Komputer
+3. Pemrograman Web I
+4. Pemrograman Berorientasi Objek
+5. Sistem Informasi Akuntansi
 6. Business Intelligence
-7. Operating Systems
+7. Sistem Operasi
 
-## Target Portfolio
+## Target Portofolio
 
-### Project 1 — Web Development
-Status: Planned
+### Proyek 1 — Pengembangan Web
+Status: Direncanakan
 
-### Project 2 — OOP
-Status: Planned
+### Proyek 2 — OOP
+Status: Direncanakan
 
-### Project 3 — Business Intelligence
-Status: Planned
+### Proyek 3 — Business Intelligence
+Status: Direncanakan
 
-## Current Skill Baseline
+## Tingkat Keterampilan Saat Ini
 
 - C++: 3/5
 - OOP: 0/5
@@ -44,6 +44,6 @@ Status: Planned
 - Database: 2/5
 - Linux/CLI: 1/5
 
-## Semester Progress
+## Progres Semester
 
-- Week 1: In progress
+- Minggu 1: Sedang berlangsung

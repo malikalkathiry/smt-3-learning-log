@@ -1,0 +1,53 @@
+body {/*manggil tag*/
+    margin-left: 8%;
+    margin-top: 20px;
+    background-color: white; /*bisa cek di hexcolor*/
+    margin-right: 8%;
+}
+
+body, .header, .nav, .samping, .footer{
+    border: 1px solid #000;
+}
+
+.header{/*manggil class nya*/
+    width:100%; /*lebar konten*/
+    padding:2px 0px 2px 0px;/* atas kanan bawah kiri, kayak margin tapi di dalam border*/
+    background-color: antiquewhite;
+    text-align: center;
+    color: yellowgreen; /*warna tulisan*/
+}
+
+.header h1{
+    font-style: italic;
+}
+.nav{
+    width: 100%;
+    text-align: center;
+    color: rgb(21, 21, 21);
+    height: 50px;
+}
+.samping{
+    float: left; /*ngambang*/
+    height: 350px;
+    width: 19%;
+}
+.samping a{
+    color: rgb(45, 34, 34);
+    text-decoration: none;/*gak ada garis birunya*/
+}
+.isi{
+    /*float:left*/
+    height: 350px;
+    border: 1px solid rgb(0, 0, 0);
+    color: rgb(12, 12, 12);
+    background-color: #bcc3c4;
+    padding-left: 7px;
+    width: 99%;
+}
+.footer{
+    background: color #bdb76b;
+    color: white;
+    text-align: center;
+    width: 100%;
+    clear:both;/*mencegah footer gak sebaris dengan float di kiri*/
+}
